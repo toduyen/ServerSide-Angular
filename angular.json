@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "projects": {
+    "serverside-angular": "apps/serverside-angular",
+    "serverside-angular-e2e": "apps/serverside-angular-e2e"
+  }
+}
